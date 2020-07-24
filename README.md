@@ -28,6 +28,16 @@
   <img src ="./assets/PlaceApp.gif" height=600px width = 400px>
 </p>
 
+<p align="center">
+  <img height=480 width=240 style="margin: 20px;" src="./placeappscreenshot/1.jpg"/>
+  <img height=480 width=240 style="margin: 20px;" src="./placeappscreenshot/2.jpg"/>
+  <img height=480 width=240 style="margin: 20px;" src="./placeappscreenshot/3.jpg"/>
+  <img height=480 width=240 style="margin: 20px;" src="./placeappscreenshot/4.jpg"/>
+  <img height=480 width=240 style="margin: 20px;" src="./placeappscreenshot/5.jpg"/>
+  <img height=480 width=240 style="margin: 20px;" src="./placeappscreenshot/6.jpg"/>
+</p>
+
+
 ---------------------------------
 
 ### Installation
